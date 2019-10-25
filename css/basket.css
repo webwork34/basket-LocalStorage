@@ -1,0 +1,12 @@
+.item_box{
+    border: 1px solid black;
+    width: 500px;
+    height: 100px; 
+    margin-bottom: 10px;
+}
+h3,
+p,
+a,
+button{
+    margin: 5px;
+}
